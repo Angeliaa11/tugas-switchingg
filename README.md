@@ -36,11 +36,15 @@ lalu, ikuti perintah dibawah ini
 
 ![Image](https://github.com/user-attachments/assets/4e99895c-aebe-49b5-8ab6-261b9c9ffe0b)
 
+
 <img width="114" alt="Image" src="https://github.com/user-attachments/assets/f82db910-71f1-41d0-99c9-105ae18e8eb7" />
+
 
 <img width="329" alt="Image" src="https://github.com/user-attachments/assets/347c4d90-569a-43da-91f1-75dd8ebe0f8b" />
 
+
 <img width="389" alt="Image" src="https://github.com/user-attachments/assets/38c34370-5e7e-4e2b-8c69-42adf51bf8d1" />
+
 
 <img width="316" alt="Image" src="https://github.com/user-attachments/assets/47da1671-4589-48ce-824e-fb0c6a38c734" />
 
