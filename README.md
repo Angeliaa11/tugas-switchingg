@@ -10,7 +10,14 @@
 
 **TUGAS SWITCHING MENGGUNAKAN CISCO TRACER**
 
-pertama, buka cisco tracer dan buat rangkaiannya seperti pada gambar
+pertama, buka cisco tracer lalu buat akun 
+
+<img width="518" alt="image" src="https://github.com/user-attachments/assets/1561d6fe-7b3c-40d2-a570-af1c47ffecf1" />
+
+<img width="449" alt="image" src="https://github.com/user-attachments/assets/a0d793bf-4e55-4982-879a-1d250006ae4d" />
+
+
+setelah itu, buatlah rangkaiannya seperti pada gambar
 
 ![Image](https://github.com/user-attachments/assets/84174ebc-1e98-45fe-807f-ccd5b8223c58)
 
@@ -47,6 +54,24 @@ lalu, ikuti perintah dibawah ini
 
 
 <img width="316" alt="Image" src="https://github.com/user-attachments/assets/47da1671-4589-48ce-824e-fb0c6a38c734" />
+
+selanjutnya, ini akan 50 %, 1 switch itu berjumlah 50 % jika meng konfigurasi 2 switch maka = 100%
+
+![Image](https://github.com/user-attachments/assets/06b5fc05-071a-47b5-a9a6-bf879f601a1f)
+
+langkah selanjutnya klik pada bagian S2
+
+![WhatsApp Image 2025-02-25 at 14 42 15_1ed2ce99](https://github.com/user-attachments/assets/509f499d-d8a1-4418-9152-7b1d5e6768ef)
+
+dan ikuti perintah seperti switch 1 juga, dibedakan di hostname nya saja, switch 1 = hostname S1  dan switch 2 = hostname S2
+
+setelah selesai semua maka akan ceklis hijau seperti pada gambar
+
+![WhatsApp Image 2025-02-25 at 08 33 46_2664cad7](https://github.com/user-attachments/assets/386f09fa-1971-405e-be64-24a90e0333d6)
+
+
+
+
 
 
 
