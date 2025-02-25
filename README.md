@@ -12,4 +12,8 @@
 
 pertama, buka cisco tracer dan buat rangkaiannya seperti pada gambar
 
+![Image](https://github.com/user-attachments/assets/84174ebc-1e98-45fe-807f-ccd5b8223c58)
+
+lalu, klik pada bagian S1
+
 
